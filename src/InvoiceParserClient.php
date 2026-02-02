@@ -12,7 +12,7 @@ class InvoiceParserClient extends SharpApiClient
     public function __construct(
         string $apiKey,
         ?string $apiBaseUrl = 'https://sharpapi.com/api/v1',
-        ?string $userAgent = 'SharpAPIPHPParseInvoice/1.0.0'
+        ?string $userAgent = 'SharpAPIPHPInvoiceParser/1.0.0'
     ) {
         parent::__construct($apiKey, $apiBaseUrl, $userAgent);
     }
