@@ -20,7 +20,7 @@ class InvoiceParserClient extends SharpApiClient
     /**
      * Parse an invoice file and return the async status URL.
      *
-     * Supported formats: PDF/DOC/DOCX/TXT/RTF.
+     * Supported formats: PDF/TIFF/JPG/PNG.
      *
      * @api
      * @throws GuzzleException
