@@ -1,5 +1,5 @@
 {
-  "name": "sharpapi/php-finance-parse-invoice",
+  "name": "sharpapi/php-invoice-parser",
   "description": "Pure PHP client for SharpAPI Invoice Parser (extracts structured data from invoices in PDF/DOC/DOCX/TXT/RTF).",
   "type": "library",
   "license": "MIT",

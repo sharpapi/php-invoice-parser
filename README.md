@@ -4,8 +4,8 @@
 
 ## 🎯 Extract structured data from invoices (PDF/DOC/DOCX/TXT/RTF) — powered by SharpAPI AI.
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/sharpapi/php-finance-parse-invoice.svg?style=flat-square)](https://packagist.org/packages/sharpapi/php-finance-parse-invoice)
-[![Total Downloads](https://img.shields.io/packagist/dt/sharpapi/php-finance-parse-invoice.svg?style=flat-square)](https://packagist.org/packages/sharpapi/php-finance-parse-invoice)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/sharpapi/php-invoice-parser.svg?style=flat-square)](https://packagist.org/packages/sharpapi/php-invoice-parser)
+[![Total Downloads](https://img.shields.io/packagist/dt/sharpapi/php-invoice-parser.svg?style=flat-square)](https://packagist.org/packages/sharpapi/php-invoice-parser)
 
 Check the full documentation on the [Invoice Parsing API](https://sharpapi.com/en/catalog/ai/finance/invoice-parsing) page.
 
@@ -33,7 +33,7 @@ Check the full documentation on the [Invoice Parsing API](https://sharpapi.com/e
 ### Step 1. Install the package via Composer:
 
 ```bash
-composer require sharpapi/php-finance-parse-invoice
+composer require sharpapi/php-invoice-parser
 ```
 
 ### Step 2. Visit [SharpAPI](https://sharpapi.com/) to get your API key.

@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to `sharpapi/php-finance-parse-invoice` will be documented in this file.
+All notable changes to `sharpapi/php-invoice-parser` will be documented in this file.
 
 ## 1.0.0 - 2026-02-02
 - Initial release: Pure PHP client for SharpAPI Invoice Parser.
