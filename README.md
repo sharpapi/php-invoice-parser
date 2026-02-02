@@ -7,7 +7,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/sharpapi/php-invoice-parser.svg?style=flat-square)](https://packagist.org/packages/sharpapi/php-invoice-parser)
 [![Total Downloads](https://img.shields.io/packagist/dt/sharpapi/php-invoice-parser.svg?style=flat-square)](https://packagist.org/packages/sharpapi/php-invoice-parser)
 
-Check the full documentation on the [Invoice Parsing API](https://sharpapi.com/en/catalog/ai/finance/invoice-parsing) page.
+Check the full documentation on the [Invoice Parsing API](https://sharpapi.com/en/catalog/ai/accounting-finance/invoice-parser) page.
 
 ---
 
@@ -17,7 +17,7 @@ Check the full documentation on the [Invoice Parsing API](https://sharpapi.com/e
 |----------|------|
 | **Main API Documentation** | [Authorization, Webhooks, Polling & More](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) |
 | **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsaE) |
-| **Product Details** | [SharpAPI.com](https://sharpapi.com/en/catalog/ai/finance/invoice-parsing) |
+| **Product Details** | [SharpAPI.com](https://sharpapi.com/en/catalog/ai/accounting-finance/invoice-parser) |
 | **SDK Libraries** | [GitHub - SharpAPI SDKs](https://github.com/sharpapi) |
 
 ---
