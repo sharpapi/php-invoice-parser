@@ -20,7 +20,8 @@ class InvoiceParserClient extends SharpApiClient
     /**
      * Parse an invoice file and return the async status URL.
      *
-     * Supported formats: PDF/TIFF/JPG/PNG.
+     * Supported formats: PDF, TIFF/TIF, JPG/JPEG/JPE, PNG.
+     * Max file size: 100 MB. Max filename length: 255 characters.
      *
      * @api
      * @throws GuzzleException
