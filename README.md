@@ -15,8 +15,7 @@ Check the full documentation on the [Invoice Parsing API](https://sharpapi.com/e
 
 | Resource | Link |
 |----------|------|
-| **Main API Documentation** | [Authorization, Webhooks, Polling & More](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) |
-| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsaE) |
+| **Main API Documentation** | [Authorization, Webhooks, Polling & More](https://sharpapi.com/documentation) |
 | **Product Details** | [SharpAPI.com](https://sharpapi.com/en/catalog/ai/accounting-finance/invoice-parser) |
 | **SDK Libraries** | [GitHub - SharpAPI SDKs](https://github.com/sharpapi) |
 

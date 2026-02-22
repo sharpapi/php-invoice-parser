@@ -20,7 +20,7 @@
   ],
   "require": {
     "php": ">=8.0",
-    "sharpapi/php-core": "^1.0.2",
+    "sharpapi/php-core": "^1.4.0",
     "guzzlehttp/guzzle": "^7.0|^7.9|^7.10"
   },
   "autoload": {
@@ -29,5 +29,9 @@
     }
   },
   "minimum-stability": "dev",
-  "prefer-stable": true
+  "prefer-stable": true,
+  "support": {
+    "source": "https://github.com/sharpapi/php-invoice-parser",
+    "issues": "https://github.com/sharpapi/php-invoice-parser/issues"
+  }
 }
