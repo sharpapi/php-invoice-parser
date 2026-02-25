@@ -30,7 +30,7 @@ class InvoiceParserClient extends SharpApiClient
     {
         $response = $this->makeRequest(
             'POST',
-            '/invoice/parse',
+            '/finance/parse_invoice',
             [],
             $invoiceFilePath
         );

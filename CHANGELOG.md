@@ -2,6 +2,9 @@
 
 All notable changes to `sharpapi/php-invoice-parser` will be documented in this file.
 
+## 1.0.1 - 2026-02-25
+- Fix API endpoint path from `/invoice/parse` to `/finance/parse_invoice`.
+
 ## 1.0.0 - 2026-02-02
 - Initial release: Pure PHP client for SharpAPI Invoice Parser.
 - Provides `InvoiceParserClient` with `parseInvoice()` and supports polling via core client.
